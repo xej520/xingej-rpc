@@ -1,9 +1,9 @@
 package com.dubbo.provider.service;
 
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.dubbo.api.model.Phone;
 import com.dubbo.api.service.IPhoneService;
-import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 
